@@ -6,7 +6,7 @@ The official website source code for Saint Philopateer Mercurius Coptic Orthodox
 
 This project is a full-stack React and TypeScript website built with the Next.js App Router and Vinext for Cloudflare. It includes public church information, live schedule and YouTube integrations, ministry registration links, prayer and newsletter support, online giving, a future-campus presentation, authentication helpers, database routes, and an administrative dashboard.
 
-Live website: church-website.youhannamorad2006.chatgpt.site
+Live website: www.TBD.org
 
 Table of Contents
 
