@@ -1,0 +1,1 @@
+import{r as e}from"./framework-CXnKph_e.js";var t=e(),n=`https://www.zeffy.com/embed/donation-form/93939448-7803-4f6e-aa82-1ef0b34f2e14`;function r(){return(0,t.jsx)(`div`,{className:`zeffy-embed-shell`,children:(0,t.jsx)(`iframe`,{src:n,title:`Donation form powered by Zeffy`,allow:`payment *`,loading:`lazy`,scrolling:`yes`})})}export{r as ZeffyDonation};

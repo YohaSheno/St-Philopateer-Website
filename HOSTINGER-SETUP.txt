@@ -1,0 +1,25 @@
+ST. PHILOPATEER MERCURIUS CHURCH WEBSITE — HOSTINGER UPLOAD
+
+This folder is ready for Hostinger's public_html directory.
+
+UPLOAD STEPS
+1. Open Hostinger hPanel.
+2. Open Files > File Manager.
+3. Open public_html.
+4. Remove Hostinger's default placeholder index file if one exists.
+5. Upload the CONTENTS of this package directly into public_html.
+6. Make sure index.html is directly inside public_html, not inside another folder.
+7. Extract the ZIP and visit your domain.
+
+IMPORTANT
+- Do not rename the assets, images, videos, or fonts folders.
+- Keep .htaccess in public_html. In File Manager, enable “Show hidden files” if needed.
+- The website design, content, responsive layout, images, animations, forms, Zeffy embed, YouTube embed, and external links are preserved.
+- The weekly enrollment pop-up still submits directly to the configured Google Apps Script.
+- Prayer requests still open the visitor's email application.
+
+STATIC-HOSTING LIMITATION
+This index.html package is a static capture of the current production website. The displayed weekly schedule is the schedule present when the package was created. Automatic server-side Google Calendar refreshes require the included full React/TypeScript source to be deployed as a Node/server application. Uploading only the static public_html package cannot run server routes or the administrative database.
+
+FULL SOURCE
+Use the separately provided full source ZIP when deploying through Hostinger's Node.js application hosting or when editing and rebuilding the website.
